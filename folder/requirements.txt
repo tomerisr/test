@@ -1,7 +1,7 @@
-pyyaml == 5.4 
+pyyaml==0.1
 python-telegram-bot
 python-bugzilla
 pymongo
 telegram
 validate_email
-werkzeug == 0.15.3 
+werkzeug==0.1
